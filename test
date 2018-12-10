@@ -1,0 +1,46 @@
+
+#EXTM3U
+#EXTINF:0,CA: E
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2833.ts
+#EXTINF:0,CA: AMC_HD
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2987.ts
+#EXTINF:0,CA: W NETWORK HD
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2831.ts
+#EXTINF:0,CA: TVA
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/3045.ts
+#EXTINF:0,CA: Golf Channel
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2830.ts
+#EXTINF:0,CA: TELETOON HD
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2824.ts
+#EXTINF:0,CA: SPORTSNET ONTARIO
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2819.ts
+#EXTINF:0,CA: SPORTSNET WORLD
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2818.ts
+#EXTINF:0,CA: SPORTSNET 360 HD
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2817.ts
+#EXTINF:0,CA: SPORTSNET ONE HD
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/3467.ts
+#EXTINF:0,CA: SPORTSNET PACIFIC
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/3469.ts
+#EXTINF:0,CA: SPORTSNET WEST HD
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/3468.ts
+#EXTINF:0,CA: SPIKE
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2821.ts
+#EXTINF:0,CA: CBC TORONTO
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2820.ts
+#EXTINF:0,CA: NBC HD
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2809.ts
+#EXTINF:0,CA: nick
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2808.ts
+#EXTINF:0,CA: FX HD
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2791.ts
+#EXTINF:0,CA: FOX HD
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2790.ts
+#EXTINF:0,CA: CP24 HD
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2774.ts
+#EXTINF:0,CA: CBC HD
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2759.ts
+#EXTINF:0,CA: BRAVO HD
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2767.ts
+#EXTINF:0,CA: ABC HD
+http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2760.ts
